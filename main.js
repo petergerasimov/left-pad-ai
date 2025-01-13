@@ -45,3 +45,5 @@ async function leftPadAi(str, padding, char=" ") {
 	}
 }
 
+export default leftPadAi;
+
