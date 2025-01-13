@@ -1,0 +1,27 @@
+{
+  "name": "left-pad-ai",
+  "version": "1.0.0",
+  "description": "Your favorite js library. New and improved!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petergerasimov/left-pad-ai.git"
+  },
+  "keywords": [
+    "left-pad",
+    "left",
+    "pad",
+    "ai",
+    "left-pad-ai",
+    "amazing"
+  ],
+  "author": "Peter Gerasimov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petergerasimov/left-pad-ai/issues"
+  },
+  "homepage": "https://github.com/petergerasimov/left-pad-ai#readme"
+}
