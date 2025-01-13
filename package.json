@@ -1,6 +1,6 @@
 {
   "name": "left-pad-ai-local",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your favorite js library. New and improved!",
   "main": "main.js",
   "type": "module",
